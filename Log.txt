@@ -380,7 +380,6 @@ Anjaneya_VALIDATION:debugReportCallback():Loader Message(0) =            Library
 Anjaneya_VALIDATION:debugReportCallback():Loader Message(0) =      ||
 Anjaneya_VALIDATION:debugReportCallback():Loader Message(0) =    <Device>
 Anjaneya_VALIDATION:debugReportCallback():Loader Message(0) =        Using "NVIDIA GeForce RTX 4090" with driver: "C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7840b4313191ae17\nvoglv64.dll"
-Anjaneya_VALIDATION:debugReportCallback():Validation(0) = Validation Information: [ WARNING-cache-file-error ] | MessageID = 0xb8515d13 | vkCreateDevice(): Cannot open shader validation cache at C:\Users\anant\AppData\Local\Temp/shader_validation_cache.bin for reading (it may not exist yet)
 CreateVulKanDevice(): vkCreateDevice() succedded
 initialize(): CreateVulKanDevice() succedded
 GetDeviceQueque(): vkGetDeviceQueue() succedded
@@ -519,96 +518,6 @@ buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 resize(): vkDeviceWaitIdle() is done
 resize(): vkDestroyFramebuffer() is done
 resize(): vkDestroyFramebuffer() is done
@@ -662,378 +571,6 @@ buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 WndProc(): resize() succedded
 WndProc() WM_CHAR(F key)-> Program entered Fullscreen.
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
@@ -1463,78 +1000,162 @@ buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 787 X 561
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 848 X 561
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 853 X 561
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
@@ -1639,7 +1260,7 @@ getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDevi
 getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
 CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
 CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
-CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 800 X 600
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 853 X 564
 getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
 getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
 getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
@@ -1691,7 +1312,7 @@ getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDevi
 getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
 CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
 CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
-CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 1920 X 1080
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 853 X 596
 getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
 getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
 getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
@@ -1723,67 +1344,6 @@ buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 WndProc(): resize() succedded
-WndProc() WM_CHAR(F key)-> Program entered Fullscreen.
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
-buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
-buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
@@ -1858,7 +1418,7 @@ getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDevi
 getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
 CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
 CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
-CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 800 X 600
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 854 X 596
 getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
 getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
 getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
@@ -1910,7 +1470,7 @@ getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDevi
 getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
 CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
 CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
-CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 784 X 561
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 897 X 596
 getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
 getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
 getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
@@ -1942,7 +1502,368 @@ buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 WndProc(): resize() succedded
-WndProc() WM_CHAR(F key)-> Program ended Fullscreen.
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 913 X 596
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 915 X 596
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 915 X 597
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 915 X 682
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+resize(): vkDeviceWaitIdle() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkDestroyFramebuffer() is done
+resize(): vkFramebuffer_array is freed
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkFreeCommandBuffers() is done 
+resize(): vkCommandBuffer_for_1024_x_1024_graphics_array is freed
+resize(): vkPipeline is freed
+resize(): vkPipelineLayout is freed
+resize(): vkDestroyRenderPass() is done
+resize(): vkDestroyImageView() is done
+resize(): vkDestroyImageView() is done
+resize(): swapChainImageView_array is freed
+resize(): swapChainImage_array is freed
+resize(): vkDestroySwapchainKHR() is done
+getPhysicalDeviceSurfaceFormatAndColorSpace(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace():  Second call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDeviceSurfaceFormatAndColorSpace(): vkSurfaceFormatKHR_array is freed
+CreateSwapChain(): getPhysicalDeviceSurfaceFormatAndColorSpace() succedded
+CreateSwapChain(): vkGetPhysicalDeviceSurfaceCapabilitiesKHR() succedded
+CreateSwapChain(): Swapchain Image Width x SwapChain  Image Height = 915 X 686
+getPhysicalDevicePresentMode(): First call to vkGetPhysicalDeviceSurfaceFormatsKHR() succedded
+getPhysicalDevicePresentMode():  Second call to vkGetPhysicalDeviceSurfacePresentModesKHR() succedded
+getPhysicalDevicePresentMode(): vkPresentModeKHR is 1
+getPhysicalDevicePresentMode(): vkPresentModeKHR_array is freed
+CreateSwapChain(): getPhysicalDevicePresentMode() succedded
+CreateSwapChain(): vkCreateSwapchainKHR() succedded
+CreateImagesAndImageViews(): first call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): second call to vkGetSwapchainImagesKHR() succedded with swapchainImageCount as 2
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 0
+CreateImagesAndImageViews(): vkCreateImageView() succedded for iteration 1
+CreateImagesAndImageViews(): GetSupportedDepthFormat() succedded
+CreateImagesAndImageViews(): vkCreateImage() succedded
+CreateImagesAndImageViews(): vkAllocateMemory() succedded
+CreateImagesAndImageViews(): vkBindBufferMemory() succedded
+CreateImagesAndImageViews(): vkCreateImageView() succedded for depth image
+CreateRenderPass(): vkCreateRenderPass() succedded
+CreatePipelineLayout(): vkCreatePipelineLayout() function succedded
+CreatePipeline(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkCreatePipelineCache() succedded
+vkCreateGraphicsPipelines(): vkPipelineCache is freed
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateFramebuffers(): vkCreateFramebuffer() succedded
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 0
+CreateCommandBuffers(): vkAllocateCommandBuffers() succedded for iteration 1
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+WndProc(): resize() succedded
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
+buildCommandBuffers(): vkResetCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkBeginCommandBuffer() succedded at 1 iteration
+buildCommandBuffers(): vkEndCommandBuffer() succedded at 1 iteration
 buildCommandBuffers(): vkResetCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkBeginCommandBuffer() succedded at 0 iteration
 buildCommandBuffers(): vkEndCommandBuffer() succedded at 0 iteration
