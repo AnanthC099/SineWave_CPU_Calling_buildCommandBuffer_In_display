@@ -538,8 +538,48 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
 			case 'O':
 			case 'o':
 				colorFromKey = 'O';
-			break;
-			
+				break;
+
+			case 'K':
+			case 'k':
+				colorFromKey = 'K';
+				break;
+
+			case 'R':
+			case 'r':
+				colorFromKey = 'R';
+				break;
+
+			case 'G':
+			case 'g':
+				colorFromKey = 'G';
+				break;
+
+			case 'B':
+			case 'b':
+				colorFromKey = 'B';
+				break;
+
+			case 'C':
+			case 'c':
+				colorFromKey = 'C';
+				break;
+
+			case 'M':
+			case 'm':
+				colorFromKey = 'M';
+				break;
+
+			case 'Y':
+			case 'y':
+				colorFromKey = 'Y';
+				break;
+
+			case 'W':
+			case 'w':
+				colorFromKey = 'W';
+				break;
+
 			}
 			break;
 
