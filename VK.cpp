@@ -1231,7 +1231,7 @@ VkResult UpdateUniformBuffer(void)
 	
 	//Update matrices
 	myUniformData.modelMatrix = glm::mat4(1.0f);
-	myUniformData.modelMatrix = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, -2.0f));
+	myUniformData.modelMatrix = glm::mat4(1.0f);
 	
 	myUniformData.viewMatrix = glm::mat4(1.0f);
 	myUniformData.projectionMatrix = glm::mat4(1.0f); //Not Required
